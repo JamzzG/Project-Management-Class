@@ -1,0 +1,15 @@
+F.1. user clicks on link to get into website
+F.2.. from there the user will be presented with a home screen asking “ log in or register an account”
+1. if the user clicks on “register an account” they will then be taken to a screen for them to fill out a username/password/and email to then be registered into the system 
+2. if the user selects “log in” then they will be taken to a screen or there will be prompt asking them to fill out their username/email and password
+F.3. once the user fills out the “register an account “ they will be taken to a screen asking to make a profile 
+1. making the profile will consist of adding a profile picture
+2. making a banner for the header part of your profile
+3. a bio to express yourself and add interest 
+F.4 if the user fills out the “ log in “ portion of the prompt then they will be taken to the main home page 
+1. the home page will consist of post from the communities that you’re apart of 
+2. you will also see the profiles of the accounts that post companied by the time it was posted 1 minute/1hour/ etc
+3 .you’ll also be presented with a search bar at the top of your screen asking you to search for keywords or a group to find for you to join
+F .3. To post new things to the groups you’re in you would just click “New Post”
+	1.	Clicking “New Post” will take you to a screen asking whether you want to post a picture or video or maybe you just want to connect with people and talk about what you’re doing.
+	2.	You then would put a video, picture, statement etc you would then just click post to group
