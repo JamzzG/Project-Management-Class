@@ -1,0 +1,18 @@
+Task and Task analysis
+	•	Login/register
+	•	Friend list
+	•	Notifications
+	•	Dark and light mode
+	•	Like and comment on post
+	•	Captions for post 
+User Model
+	•	Age
+	•	Sex
+	•	Gender
+	•	Occupation
+	•	Bio
+Personas
+	•	Jeff
+	•	Amber
+	•	Zack
+	•	ashely
