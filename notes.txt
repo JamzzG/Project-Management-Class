@@ -1,1 +1,4 @@
-test file
+username and password
+user name wrong
+user password
+all cases 100% of the time.
