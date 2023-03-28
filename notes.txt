@@ -2,3 +2,25 @@ username and password
 user name wrong
 user password
 all cases 100% of the time.
+
+
+
+aggregation uses data
+composition contians more than one 
+realize sees what type of relationship
+
+usecase to flows to sequence diagrams to code
+Start with full list of User Stories
+    Then proceed to use cases.
+
+
+    name
+        pre-conditions
+        post conditionsmain flow
+        alternate flows.  Flows are extemely detailed and you need to reference the steps when using include.
+
+        for each flow you need to do a sequence diagram.  ONE SEQEUNCE DIAGRAM PER Flows
+
+
+        Final Report
+            Scrum Planning with Test-Driven Developmnet....basically 2 and 3 combined.
