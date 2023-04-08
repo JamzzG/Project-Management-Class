@@ -24,3 +24,37 @@ Start with full list of User Stories
 
         Final Report
             Scrum Planning with Test-Driven Developmnet....basically 2 and 3 combined.
+
+
+SOFTWARE ARCHITECTURE
+
+    MVC and MVP are both software architectural patterns that are commonly used in developing user interfaces for software applications. Both patterns separate the user interface (UI) from the application logic and data, allowing for more modular and maintainable code.
+
+    MVC stands for Model-View-Controller, while MVP stands for Model-View-Presenter. The main difference between the two patterns lies in the way they handle communication between the UI and the rest of the application.
+
+    In the MVC pattern, the Model represents the data and business logic, the View represents the user interface, and the Controller acts as an intermediary between the two, receiving input from the View and updating the Model accordingly. The View and the Model are often tightly coupled in this pattern, with the Controller serving as the mediator.
+
+    In the MVP pattern, the Model still represents the data and business logic, and the View still represents the user interface, but the Presenter takes the place of the Controller. The Presenter is responsible for handling user input, updating the View, and manipulating the Model. The View and the Presenter are loosely coupled, with the Presenter acting as a mediator between the two.
+
+    Overall, the choice between MVC and MVP often comes down to personal preference and the specific needs of the application being developed. Both patterns have their strengths and weaknesses, and the best approach will depend on the specific requirements of the project.
+
+UML 
+    (Unified Modeling Language) is a standardized visual modeling language used to describe and design software systems. It is not specific to web development, but can be applied to any type of software development, including web applications.
+
+    UML provides a standardized set of diagrams and symbols that developers can use to model the various aspects of a software system, including the structure of the system, its behavior, and its interactions with external entities.
+
+    Some common UML diagrams used in web development include:
+
+    Class diagrams: used to represent the classes and objects in a system, and the relationships between them.
+    Sequence diagrams: used to show the interactions between objects in a particular scenario or use case.
+    Activity diagrams: used to model the workflow or behavior of a particular feature or function in the system.
+    Use case diagrams: used to identify and describe the various use cases or scenarios that the system must support.
+    By using UML, developers can create a visual representation of the software system that can help to ensure that everyone involved in the development process has a shared understanding of how the system is designed and how its various components interact.
+
+
+Planning for sofware evolution
+
+
+    Class 2 117
+    list of classes each package will contain:
+        
