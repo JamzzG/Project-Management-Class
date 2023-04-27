@@ -58,3 +58,11 @@ Planning for sofware evolution
     Class 2 117
     list of classes each package will contain:
         
+
+
+Algorithmic Techniques
+
+Checkout command
+    git checkout -m
+Merge
+

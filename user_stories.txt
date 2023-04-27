@@ -13,3 +13,8 @@ F.4 if the user fills out the “ log in “ portion of the prompt then they wil
 F .3. To post new things to the groups you’re in you would just click “New Post”
 	1.	Clicking “New Post” will take you to a screen asking whether you want to post a picture or video or maybe you just want to connect with people and talk about what you’re doing.
 	2.	You then would put a video, picture, statement etc you would then just click post to group
+F.4.	To comment on posts user will click on "comment" button on post.
+	2. A popup screen will appear with section to fill out comment and a save or delete option.
+		2.a if they save the comment will be added to post comments.
+		2.b if delete is selected the comment will be discarded and the user will return to the post page.
+		

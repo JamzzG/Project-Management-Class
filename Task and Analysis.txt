@@ -12,7 +12,7 @@ User Model
 	•	Occupation
 	•	Bio
 Personas
-	•	Jeff
-	•	Amber
-	•	Zack
-	•	ashely
+	•	James
+	•	Manny
+	•	Jose
+	•	Lea
